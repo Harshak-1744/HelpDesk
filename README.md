@@ -101,7 +101,7 @@ This project follows agile methodologies. We use Jira for project management, ta
 
 - User Stories: Defined to guide development.
 - Sprints: Organized in one-week intervals.
-- Daily Stand-ups: Held to discuss progress and plans.
+- Daily Stand-ups: Held to discuss progress and plans..!
 
 ## Contributing
 
